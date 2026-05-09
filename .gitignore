@@ -1,0 +1,7 @@
+CLAUDE.md
+CLAUDE.local.md
+.claude/settings.local.json
+.env
+node_modules/
+.next/
+prisma/dev.db
